@@ -13,7 +13,10 @@ To run the code all at once, run the cartpole.py file
 - numpy
 
 ### Mountain Car with random policy
+![Random Policy Simulation](output/random.gif)
+
 
 
 ### Mountain Car with optimal policy learned with Q-Learning
+![Q-Learning Policy Simulation](output/optimal.gif)
 
